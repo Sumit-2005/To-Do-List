@@ -10,7 +10,7 @@
     min-height: 100vh;
     padding: 10px;
     background-color:darkcyan;
-} 
+}
 
 .to-do_list {
     width: 100%;
@@ -23,9 +23,8 @@
 
 .to-do_list h2 {
     color: #002765;
-    display: flex;
-    align-items: center;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .to-do_list h2 img {
